@@ -22,7 +22,7 @@ namespace Snoop.Shell
 
         public override void SetBufferContents(Coordinates origin, BufferCell[,] contents)
         {
-            throw new NotImplementedException();
+          throw new NotImplementedException();
         }
 
         public override void SetBufferContents(Rectangle rectangle, BufferCell fill)
